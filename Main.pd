@@ -1,0 +1,54 @@
+#N canvas 86 69 1409 839 10;
+#N canvas 0 22 450 300 (subpatch) 0;
+#X array harmonics3 36465 float 2;
+#X coords 0 1 36465 -1 200 140 1;
+#X restore 813 57 graph;
+#X obj 277 281 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 33 184 soundfiler;
+#X obj 114 434 metro 200;
+#X obj 107 384 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 174 507 snapshot~;
+#X floatatom 164 577 5 0 0 0 - - -;
+#X text 69 190 comment;
+#X obj 277 341 tabplay~ harmonics3;
+#X obj 821 564 output~;
+#X obj 381 198 soundfiler;
+#X floatatom 381 220 0 0 0 0 - - -;
+#X obj 806 473 readsf~;
+#X msg 726 425 start;
+#X msg 737 469 stop;
+#X obj 293 532 output~;
+#X msg 201 339 stop;
+#X msg 26 142 read audioFiles/complexCall.aif harmonics3;
+#X text 29 113 This doesn't work right.;
+#X text 376 118 Reading raw with these settings seems to help but it
+still sounds really low quality (and with clicks);
+#X text 253 264 Click here to play contents of table;
+#X text 784 359 This approach seems to play it back at at least twice
+the rate;
+#X msg 805 410 open audioFiles/complexCall.aif 0 1 3 b;
+#X text 20 98 ATTEMPT #1;
+#X text 364 100 ATTEMPT #2;
+#X text 762 335 ATTEMPT #3;
+#X text 19 43 Experiment 1: use bird sounds to create envelope for
+my voice;
+#X msg 381 151 read -resize -raw 0 1 3 l audioFiles/complexCall.aif
+harmonics3 \; pd dsp 1 \;;
+#X connect 1 0 8 0;
+#X connect 3 0 5 0;
+#X connect 4 0 3 0;
+#X connect 5 0 6 0;
+#X connect 8 0 5 0;
+#X connect 8 0 15 0;
+#X connect 8 0 15 1;
+#X connect 10 0 11 0;
+#X connect 12 0 9 0;
+#X connect 12 0 9 1;
+#X connect 13 0 12 0;
+#X connect 14 0 12 0;
+#X connect 16 0 8 0;
+#X connect 17 0 2 0;
+#X connect 22 0 12 0;
+#X connect 27 0 10 0;
