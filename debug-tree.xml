@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all>
+   <event pos="1" base="39">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="2" base="40">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="36">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="2" base="37">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="3" base="44">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="2" base="43">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="42">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="31">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="31">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="44">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="2" base="45">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="3" base="46">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="4" base="47">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="41">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="41">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+   <event pos="1" base="39">
+      <note pos="1"/>
+      <note pos="2"/>
+      <note pos="3"/>
+   </event>
+</all>
