@@ -1,83 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
-   <event pos="1" base="39">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="61">
+      <note/>
    </event>
-   <event pos="2" base="40">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="39" delay="6000">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="36">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="40">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="2" base="37">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="36">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="3" base="44">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="37">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="2" base="43">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="44">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="42">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="43">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="31">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="42">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="31">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="31">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="44">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="31">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="2" base="45">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="44">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="3" base="46">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="45">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="4" base="47">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="46">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="41">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="47">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="41">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="41">
+      <note/>
+      <note/>
+      <note/>
    </event>
-   <event pos="1" base="39">
-      <note pos="1"/>
-      <note pos="2"/>
-      <note pos="3"/>
+   <event base="41">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="39">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="48" delay="7500">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="47">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="46">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="45">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="47">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="46">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="45">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="39">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="40">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="39">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="38">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="38">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="38" delay="4000">
+      <note/>
+      <note/>
+      <note/>
+   </event>
+   <event base="38" delay="4000">
+      <note/>
+      <note/>
+      <note/>
    </event>
 </all>
