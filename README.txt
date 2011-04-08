@@ -1,3 +1,6 @@
+You can now hear a recording of this short piece here:
+http://soundcloud.com/evan-lenz/lullaby
+
 To play this piece:
 
   1) Open Main.pd in Pd (http://puredata.info), and
